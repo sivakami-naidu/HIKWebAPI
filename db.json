@@ -1,20 +1,9 @@
-﻿[
-    {
-        "id": 1,
-        "name": "Siva",
-        "message": "Hello",
-        "createdDate": "2019-01-25T10:12:16.843"
-    },
-    {
-        "id": 2,
-        "name": "Nithin",
-        "message": "Good morning",
-        "createdDate": "2021-01-20T10:12:16.843"
-    },
-    {
-        "id": 3,
-        "name": "Gary",
-        "message": "Have a nice day",
-        "createdDate": "2021-01-20T11:12:16.843"
-    }
-]
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
