@@ -1,0 +1,20 @@
+﻿[
+    {
+        "id": 1,
+        "name": "Siva",
+        "message": "Hello",
+        "createdDate": "2019-01-25T10:12:16.843"
+    },
+    {
+        "id": 2,
+        "name": "Nithin",
+        "message": "Good morning",
+        "createdDate": "2021-01-20T10:12:16.843"
+    },
+    {
+        "id": 3,
+        "name": "Gary",
+        "message": "Have a nice day",
+        "createdDate": "2021-01-20T11:12:16.843"
+    }
+]
